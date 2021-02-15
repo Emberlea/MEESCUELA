@@ -1,0 +1,101 @@
+body{
+    text-align: center;
+}
+#sp1{
+    font-family: cursive;
+}
+#sp2{
+    font-family: fantasy;
+}
+#sp3{
+    font-family: monospace;
+}
+#f{
+    font-size: 20px;
+}
+h5{
+    font-size: 20px;
+}
+#ach{
+    font-family: cursive;
+}
+#acheiver{
+    text-align: center;
+    background-color: darkturquoise;
+}
+#im{
+    height:20%;
+    width:8%;
+}
+html{
+    scroll-behavior: smooth;
+}
+#de{
+    height:20%;
+    font-size:150%;
+}
+#ad{
+    height:20%;
+    width:10%;
+}
+#is{
+    height:20%;
+    font-size:150%;
+}
+#gh{
+    height:40%;
+    width:40%;
+}
+#my{
+    height:20%;
+    width:8%;
+}
+#mi{
+     height:20%;
+    font-size:150%;
+}
+#lol{
+     height:20%;
+    font-size:150%;
+}
+#le{
+    height:35%;
+    width:30%;
+}
+#na{
+    height:35%;
+    width:30%;
+}
+#em{
+    height:35%;
+    width:30%;
+}
+#so{
+    height:35%;
+    width:30%;
+}
+#ba{
+    height:35%;
+    width:30%;
+}
+#ck{
+    height:35%;
+    width:30%;
+}
+#oppor{
+    background-color: darkmagenta;
+    color: aliceblue;
+}
+#bt{
+    font-family: fantasy;
+}
+#pi{
+    background:darkturquoise;
+}
+#gif{
+    width:20%;
+    height:40%;
+}
+#po{
+    background:darkturquoise;
+}
